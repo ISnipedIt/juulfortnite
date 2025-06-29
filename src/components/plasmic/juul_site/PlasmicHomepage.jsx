@@ -128,7 +128,7 @@ function PlasmicHomepage__RenderFunc(props) {
                       sty.text___9Lx2M
                     )}
                   >
-                    {"Built for creators. Works for anyone."}
+                    {"Built for diddy. Works for anyone."}
                   </div>
                   <div
                     data-plasmic-name={"backgroundShadow"}
